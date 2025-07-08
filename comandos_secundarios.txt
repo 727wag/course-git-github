@@ -1,0 +1,8 @@
+este arquivo contem informaçoes adicionais sobre branch secundaria
+
+git checkout main
+
+git checkout secundaria
+
+git checkout -b "nome da branch" -> esse codigo cria uma nova branch no diretório
+
