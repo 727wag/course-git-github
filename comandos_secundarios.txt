@@ -6,3 +6,4 @@ git checkout secundaria
 
 git checkout -b "nome da branch" -> esse codigo cria uma nova branch no diretório
 
+git merge (nome da branch que deseja misturar para main) -> código para adicionar todos arquivos da outra branch para a branch  main
