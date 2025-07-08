@@ -2,9 +2,9 @@ git init . -> cria um repositorio git na pasta atual
 
 git status -> status do que está em alteração, se tem algo para commitar
 
-git add . -> adiciona todos arquivos no dirétorio para ser commitado
+git add .  -> adiciona todos arquivos no dirétorio para ser commitado
 
-git commit -m "nome do commit" -> serve para adicionar nome para seu "save"
+git commit -m "nome do commit"  -> serve para adicionar nome para seu "save"
 
 git log -> exibe todos as alterações feitas no diretório pelos usuarios
 
