@@ -8,4 +8,6 @@ git commit -m "nome do commit" -> serve para adicionar nome para seu "save"
 
 git log -> exibe todos as alterações feitas no diretório pelos usuarios
 
+git diff . ou (nome do arquivo) -> mostra todas as alterações feitas no arquivo
+
 
