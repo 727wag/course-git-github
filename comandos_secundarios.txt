@@ -6,3 +6,4 @@ git checkout secundaria
 
 git checkout -b "nome da branch" -> esse codigo cria uma nova branch no diretório
 
+teste de merge novamente para ver se é afetado
