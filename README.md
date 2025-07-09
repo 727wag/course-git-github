@@ -1,4 +1,4 @@
-# Curso TMNW Git & GitHub 2025
+# Curso TMW Git & GitHub 2025
 
 Um curso do Téo me Why para iniciantes aprender a trabalhar com versionamento de código e repositórios remotos com GitHub.
 
