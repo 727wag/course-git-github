@@ -6,6 +6,8 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 (Curso Téo me Why)
 
+Colocando GitFlow em produção
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b
