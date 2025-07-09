@@ -4,6 +4,8 @@ Um curso do Téo me Why para iniciantes aprender a trabalhar com versionamento d
 
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
+(Curso Téo me Why)
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b
